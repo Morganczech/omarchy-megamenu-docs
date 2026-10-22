@@ -27,3 +27,7 @@ Záložky, kategorie a příkazy jsou v `~/.local/share/omarchy-megamenu/data.js
 [Instalace](/cs/install/) je jeden příkaz. Uložení karty, kterou právě čteš, má dvě části: [doplněk a místního pomocníka](/cs/save-page/).
 
 Zdroj: [github.com/Morganczech/omarchy-megamenu](https://github.com/Morganczech/omarchy-megamenu). Firefox a Zen: [Omarchy Megamenu na Mozilla Add-ons](https://addons.mozilla.org/cs/firefox/addon/omarchy-megamenu/).
+
+## Kontakt
+
+Chybu nebo nápad napiš do [issues na GitHubu](https://github.com/Morganczech/omarchy-megamenu/issues). Jde to i mailem na [megamenu@rovix.eu](mailto:megamenu@rovix.eu).

@@ -27,6 +27,11 @@ export default defineConfig({
 					label: 'GitHub',
 					href: 'https://github.com/Morganczech/omarchy-megamenu',
 				},
+				{
+					icon: 'email',
+					label: 'Email',
+					href: 'mailto:megamenu@rovix.eu',
+				},
 			],
 			sidebar: [
 				{

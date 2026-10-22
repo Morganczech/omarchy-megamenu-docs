@@ -27,3 +27,7 @@ Bookmarks, categories, and commands stay in `~/.local/share/omarchy-megamenu/dat
 [Install it](/install/) with one command. Saving the tab you are reading is the step with two parts: the [add-on and the local helper](/save-page/).
 
 Source: [github.com/Morganczech/omarchy-megamenu](https://github.com/Morganczech/omarchy-megamenu). Firefox and Zen: [Omarchy Megamenu on Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/omarchy-megamenu/).
+
+## Contact
+
+A bug or an idea belongs in [GitHub issues](https://github.com/Morganczech/omarchy-megamenu/issues). You can also write to [megamenu@rovix.eu](mailto:megamenu@rovix.eu).
