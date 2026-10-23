@@ -5,6 +5,8 @@ description: Filter every space as you type, and open Omarchy actions, apps, and
 
 Type anywhere in the menu. Megamenu filters bookmarks and commands across **all spaces**. Matches from another space show up in their own column, next to Omarchy system actions and installed `.desktop` applications.
 
+The same query also matches [notes](/notes/) by title, file name, or badge. Choosing a match opens that note. The file body is not searched.
+
 Actions use the names you already see in Omarchy, such as `Style › Theme`, `Style › Background`, `System › Lock`, `Trigger › Capture › Screenshot`, and `Setup › Monitors`.
 
 ## The `>` view

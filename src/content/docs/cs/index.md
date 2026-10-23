@@ -1,6 +1,6 @@
 ---
 title: Úvod
-description: Menu pro Omarchy s prostory, šesti sloty Orbit, živými sloupci a uloženými příkazy.
+description: Menu pro Omarchy s prostory, šesti sloty Orbit, poznámkami na disku, živými sloupci a uloženými příkazy.
 ---
 
 Omarchy Megamenu je menu a widget do lišty pro [Omarchy](https://omarchy.org/). Odkazy, feedy, aplikace a příkazy v shellu zůstávají na tomhle počítači a vzhled se bere z aktivního tématu Omarchy.
@@ -20,9 +20,10 @@ omarchy-shell shell toggle gruut.megamenu
 - **Sloupce**, které jsou statický seznam, RSS nebo Atom feed, nebo GitHub repozitář.
 - **Hledání** napříč prostory, akcemi Omarchy a nainstalovanými aplikacemi. Dotaz začínající `>` otevře plný pohled na akce.
 - **Příkazy v shellu**, které běží v terminálu nebo na pozadí.
+- **Poznámky**, obyčejné Markdown soubory ve složce, kterou si vybereš, v [prostoru Note](/cs/notes/).
 - **Import záložek** z nainstalovaných prohlížečů a doplněk, který uloží otevřenou kartu.
 
-Záložky, kategorie a příkazy jsou v `~/.local/share/omarchy-megamenu/data.json`. Přepínač jazyka v horní liště střídá Auto, EN a CS.
+Záložky, kategorie a příkazy jsou v `~/.local/share/omarchy-megamenu/data.json`. Přepínač jazyka pod šipkou střídá Auto, EN a CS.
 
 [Instalace](/cs/install/) je jeden příkaz. Uložení karty, kterou právě čteš, má dvě části: [doplněk a místního pomocníka](/cs/save-page/).
 

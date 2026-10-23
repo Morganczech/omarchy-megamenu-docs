@@ -3,7 +3,7 @@ title: Import záložek
 description: Vezmi složky záložek z nainstalovaných prohlížečů nebo z HTML exportu do aktivního prostoru.
 ---
 
-**Import** v horní liště čte profily záložek, které už na tomhle počítači jsou:
+**Import** pod šipkou v horní liště čte profily záložek, které už na tomhle počítači jsou:
 
 - prohlížeče na bázi Chromia: Brave, Chromium, Chrome, Vivaldi, Edge
 - Firefox, Zen a LibreWolf (`places.sqlite`)

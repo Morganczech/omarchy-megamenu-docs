@@ -9,13 +9,15 @@ description: Keys inside Megamenu, and the optional global shortcut that opens i
 | --- | --- |
 | Type text | Filter bookmarks and commands across all spaces, plus Omarchy actions and apps |
 | `>` and a query | Search and launch Omarchy actions, installed applications, and saved commands |
-| `1`–`6` | Launch quick-access slot 1–6 when search is empty |
+| `1`–`6` | Launch quick-access slot 1–6 when search is empty. The Note space does not use these keys |
 | `Tab` / `Shift+Tab` | Next space / previous space |
 | `↑` `↓` `←` `→` | Move between items, or between system apps in `>` mode |
 | `Enter` | Launch the selected bookmark, command, or application |
 | Right-click / `Alt+M` | Context menu: browser, copy, edit, move, delete |
 | `Alt+E` | Edit the selected item |
-| `Ctrl+N` | Add a bookmark, command, or local application |
+| `Ctrl+N` | Add a bookmark, command, or local application. In the Note space, start a new note |
+| `Ctrl+S` | Save the open note while the editor is focused |
+| `SUPER + N` | Optional. Off until you save the note shortcut in the shortcut dialog. Opens a new note |
 | `Esc` | Close a modal, the context menu, or Megamenu |
 
 You can also open the menu from a terminal:
@@ -27,5 +29,7 @@ omarchy-shell shell toggle gruut.megamenu
 ## Global shortcut
 
 The **Set shortcut** button in the top bar binds a Hyprland shortcut, such as `SUPER + M` or `ALT + SPACE`. Saving it writes an omaplug block into `~/.config/hypr/bindings.lua`. Until you save, Megamenu leaves that file alone.
+
+The same dialog has a separate row for a new-note shortcut. The suggested keys are `SUPER + N`. Saving that row writes a second block and does not replace the shortcut that opens the menu. [Notes](/notes/) describes what it does.
 
 **Disable shortcut** on the same button removes the binding. Do that before you [remove the plugin](/install/) if a shortcut is still set.

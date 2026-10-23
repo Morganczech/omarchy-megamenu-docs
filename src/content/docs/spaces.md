@@ -7,7 +7,7 @@ A space is one set of links, feeds, and apps. The examples people start from are
 
 ## Quick Access Orbit
 
-Each space has six slots. Pin a web link, an Omarchy action, a local application, or a shell command, then launch it with `1` through `6` while search is empty.
+Each space has six slots. Pin a web link, an Omarchy action, a local application, or a shell command, then launch it with `1` through `6` while search is empty. The Note space does not show this strip. A pin there keeps a [note](/notes/) at the top of the list.
 
 Moving an item to another space clears its orbit pin.
 

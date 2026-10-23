@@ -20,7 +20,7 @@ The registration below is the one the menu button runs. It is for Firefox and Ze
 
 ## Register the helper
 
-Open Megamenu and click **Page save** in the top bar. The tooltip still asks you to install the add-on. From a terminal, with the plugin installed:
+Open Megamenu, open the chevron in the top bar, and click **Page save**. The tooltip still asks you to install the add-on. From a terminal, with the plugin installed:
 
 ```bash
 python3 ~/.config/omarchy/plugins/gruut.megamenu/scripts/install-browser-host.py --firefox-only

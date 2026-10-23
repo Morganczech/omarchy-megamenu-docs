@@ -65,6 +65,11 @@ export default defineConfig({
 							slug: 'spaces',
 							translations: { cs: 'Prostory, Orbit a kategorie' },
 						},
+						{
+							label: 'Notes',
+							slug: 'notes',
+							translations: { cs: 'Poznámky' },
+						},
 						{ label: 'Search', slug: 'search', translations: { cs: 'Hledání' } },
 						{
 							label: 'Live columns',

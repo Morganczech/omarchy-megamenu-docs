@@ -7,7 +7,7 @@ Prostor je jedna sada odkazů, feedů a aplikací. Na začátku dávají smysl n
 
 ## Quick Access Orbit
 
-Každý prostor má šest slotů. Připni webový odkaz, akci Omarchy, lokální aplikaci nebo příkaz v shellu a spusť ho klávesou `1` až `6`, dokud je hledání prázdné.
+Každý prostor má šest slotů. Připni webový odkaz, akci Omarchy, lokální aplikaci nebo příkaz v shellu a spusť ho klávesou `1` až `6`, dokud je hledání prázdné. Prostor Note tenhle pruh neukazuje. Pin tam nechá [poznámku](/cs/notes/) nahoře v seznamu.
 
 Přesun položky do jiného prostoru její připnutí v Orbitu zruší.
 

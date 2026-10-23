@@ -20,7 +20,7 @@ Registrace níže je ta, kterou spouští tlačítko v menu. Platí pro Firefox 
 
 ## Registrace pomocníka
 
-Otevři Megamenu a v horní liště klikni na **Ukládání stránek**. Tooltip pořád připomíná, že doplněk je potřeba zvlášť. Z terminálu, když je plugin nainstalovaný:
+Otevři Megamenu, v horní liště rozbal šipku a klikni na **Ukládání stránek**. Tooltip pořád připomíná, že doplněk je potřeba zvlášť. Z terminálu, když je plugin nainstalovaný:
 
 ```bash
 python3 ~/.config/omarchy/plugins/gruut.megamenu/scripts/install-browser-host.py --firefox-only

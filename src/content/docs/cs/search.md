@@ -5,6 +5,8 @@ description: Filtruj všechny prostory psaním a klávesou > otevři akce Omarch
 
 Piš kdekoli v menu. Megamenu filtruje záložky a příkazy ve **všech prostorech**. Shody z jiného prostoru se ukážou ve vlastním sloupci, vedle systémových akcí Omarchy a nainstalovaných aplikací `.desktop`.
 
+Stejný dotaz najde i [poznámky](/cs/notes/) podle názvu, jména souboru nebo štítku. Výběr shody poznámku otevře. Tělo souboru se neprohledává.
+
 Akce používají názvy, které už v Omarchy vidíš, třeba `Style › Theme`, `Style › Background`, `System › Lock`, `Trigger › Capture › Screenshot` a `Setup › Monitors`.
 
 ## Pohled `>`

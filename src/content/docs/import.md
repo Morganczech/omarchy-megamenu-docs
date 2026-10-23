@@ -3,7 +3,7 @@ title: Import bookmarks
 description: Pull bookmark folders from installed browsers or an HTML export into the active space.
 ---
 
-**Import** in the top bar reads bookmark profiles that are already on this computer:
+**Import**, inside the chevron on the top bar, reads bookmark profiles that are already on this computer:
 
 - Chromium-based browsers: Brave, Chromium, Chrome, Vivaldi, Edge
 - Firefox, Zen, and LibreWolf (`places.sqlite`)
